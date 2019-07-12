@@ -1,6 +1,0 @@
-sh create-theme-assets.sh teal base-logo.svg /home/amusa/www/resources/images/themes-assets-rebrand/ "1c9188"
-sh create-theme-assets.sh maroon base-logo.svg /home/amusa/www/resources/images/themes-assets-rebrand/ "91291c"
-sh create-theme-assets.sh blue base-logo.svg /home/amusa/www/resources/images/themes-assets-rebrand/ "5b9fec"
-sh create-theme-assets.sh slate base-logo.svg /home/amusa/www/resources/images/themes-assets-rebrand/ "37444a"
-sh create-theme-assets.sh grey base-logo.svg /home/amusa/www/resources/images/themes-assets-rebrand/ "666666"
-sh create-theme-assets.sh golden base-logo.svg /home/amusa/www/resources/images/themes-assets-rebrand/ "c4692c"
