@@ -12,7 +12,7 @@ Please feel free to [contribute to this project](https://amrayn.com/contribute).
 
 Please consider following us on our social media channels
 
-[![Facebook](https://cdn.muflihun.com/assets/images/fb.png?)](https://www.facebook.com/amraynonweb)
-[![Twitter](https://cdn.muflihun.com/assets/images/twitter.png?)](https://www.twitter.com/amraynonweb)
-[![Instagram](https://cdn.muflihun.com/assets/images/ig.png?)](https://www.instagram.com/amraynonweb)
+[![Facebook](https://cdn.amrayn.com/assets/images/fb.png?)](https://www.facebook.com/amraynonweb)
+[![Twitter](https://cdn.amrayn.com/assets/images/twitter.png?)](https://www.twitter.com/amraynonweb)
+[![Instagram](https://cdn.amrayn.com/assets/images/ig.png?)](https://www.instagram.com/amraynonweb)
 
