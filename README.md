@@ -12,7 +12,8 @@ Please feel free to [contribute to this project](https://amrayn.com/contribute).
 
 Please consider following us on our social media channels
 
-[![Facebook](https://cdn.amrayn.com/assets/images/fb.png?)](https://www.facebook.com/amraynonweb)
-[![Twitter](https://cdn.amrayn.com/assets/images/twitter.png?)](https://www.twitter.com/amraynonweb)
-[![Instagram](https://cdn.amrayn.com/assets/images/ig.png?)](https://www.instagram.com/amraynonweb)
+[![Facebook](https://cdn.amrayn.com/assets/images/fb.png?)](https://www.facebook.com/amraynofficial)
+[![Twitter](https://cdn.amrayn.com/assets/images/twitter.png?)](https://www.twitter.com/amraynofficial)
+[![Instagram](https://cdn.amrayn.com/assets/images/ig.png?)](https://www.instagram.com/amraynofficial)
+[![YouTube](https://raw.githubusercontent.com/amrayn/planner/master/rc/ytsmall3.png?v2)](https://www.youtube.com/@amraynofficial)
 
