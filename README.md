@@ -2,7 +2,7 @@
 
 In this repository we track issues and feature requests.
 
-**To report a hadith error/mistake please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScCRtf_rpw0aL4gsEfsJCS95Mafhpj-n-I1twx6bxL5TgYJtA/viewform)**
+**To report a hadith error/mistake please fill the "Report an error" form by clicking the menu on the hadith.
 
 We are now openly planning new features / bug fixes in this repo. You might see new markdown files, images (flow chart etc), github issues etc for developers to contribute to and know our plan.
 
